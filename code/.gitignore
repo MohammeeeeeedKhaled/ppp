@@ -1,0 +1,18 @@
+  MyProject.brk   
+   MyProject.cfg 
+    MyProject.dct 
+     MyProject.log 
+    !  MyProject.mcppi                  
+      MyProject_callertable.txt
+MyProject.asm  
+MyProject.c   
+   MyProject.cp  
+    MyProject.dlt 
+     MyProject.lst 
+      MyProject.mcppi_callertable.txt
+MyProject.bmk  
+MyProject.c.ini  
+MyProject.dbg 
+! MyProject.hex  
+MyProject.mcl  
+MyProject.user.dic
